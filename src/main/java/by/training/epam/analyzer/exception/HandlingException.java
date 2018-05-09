@@ -1,7 +1,6 @@
-package by.training.analyser.exception;
+package by.training.epam.analyzer.exception;
 
 public class HandlingException extends Exception {
-
     public HandlingException(String message) {
         super(message);
     }

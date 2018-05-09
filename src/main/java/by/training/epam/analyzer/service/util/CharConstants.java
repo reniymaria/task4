@@ -1,4 +1,4 @@
-package by.training.analyser.service.util;
+package by.training.epam.analyzer.service.util;
 
 public class CharConstants {
 

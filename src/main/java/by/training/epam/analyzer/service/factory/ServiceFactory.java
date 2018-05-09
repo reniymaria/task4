@@ -1,7 +1,7 @@
-package by.training.analyser.service.factory;
+package by.training.epam.analyzer.service.factory;
 
-import by.training.analyser.service.AnalyseService;
-import by.training.analyser.service.impl.AnalyseServiceImpl;
+import by.training.epam.analyzer.service.AnalyseService;
+import by.training.epam.analyzer.service.impl.AnalyseServiceImpl;
 
 public class ServiceFactory {
 	
